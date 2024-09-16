@@ -1,0 +1,4 @@
+virt/
+.idea/
+db.sqlite3
+.env
